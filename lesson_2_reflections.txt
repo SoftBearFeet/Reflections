@@ -17,3 +17,7 @@ It would be helpful if you were testing out some code and didn't want to break t
  - How do the diagrams help you visualize the branch structure?
 
 It allows you to see the bigger whole picture.
+
+ - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that both branches become one. We represent in that way, because it is easiest to understand?
