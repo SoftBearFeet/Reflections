@@ -21,3 +21,7 @@ It allows you to see the bigger whole picture.
  - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is that both branches become one. We represent in that way, because it is easiest to understand?
+
+ - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros and Cons of git's merging allows you to correct mistakes. blah blah blah
