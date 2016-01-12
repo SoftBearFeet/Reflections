@@ -4,4 +4,8 @@ It created a ".git" folder. I need it so that I can start to track my commits?
 
  - How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area works on repository, by getting files ready to be committed. It allows you to only commit the files that need to be committed. 
+The staging area works on repository, by getting files ready to be committed. It allows you to only commit the files that need to be committed.
+
+ - How can you use the staging area to make sure you have one commit per logical change?
+
+By using that command "git status"
