@@ -17,3 +17,7 @@ The benefit is that you are able to keep track if there have been any changes to
  - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 If I didn't use Git ot GitHub and I needed to collaborate with people, it would really depend if they were local in my are or not. You could use flashdrives, or email, or even Google docs if it was just a simple document. Possibly some sort of cloud service or some other service similar to Git and GitHub. I'm not sure what would be easier because I just am not familiar with the different services offered out there.
+
+ - When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Usually when you are introducing a new feature or correcting a bug. I feel that if there is a typo, that it would be ok to work on it in the master. The benefit is that everyone can see the change before it is merged into the master file, that have the other people put their two cents in.
