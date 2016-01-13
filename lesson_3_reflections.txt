@@ -13,3 +13,7 @@ A fork is when you "clone/copy" a repo from the GitHub website. Clones are when 
  - What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is that you are able to keep track if there have been any changes to the repo in GitHub by other users, and if there are changes you are aware before you push anything back.
+
+ - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If I didn't use Git ot GitHub and I needed to collaborate with people, it would really depend if they were local in my are or not. You could use flashdrives, or email, or even Google docs if it was just a simple document. Possibly some sort of cloud service or some other service similar to Git and GitHub. I'm not sure what would be easier because I just am not familiar with the different services offered out there.
